@@ -30,3 +30,4 @@ if (!validarMensaje(mensaje)) {
 alert("Recibimos tu mensaje")
 }
 document.querySelector("button[type='submit']").addEventListener('click',validarFormulario);
+/* Comentario Rama Fabian */
